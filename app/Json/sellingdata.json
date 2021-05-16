@@ -1,0 +1,9 @@
+{
+    "items": [
+        {"name": "Kofta", "uri": "https://reactjs.org/logo-og.png", "price": 10},
+        {"name": "Kebab", "uri": "https://reactjs.org/logo-og.png", "price": 19.25},
+        {"name": "Shawerma", "uri": "https://reactjs.org/logo-og.png", "price": 20},
+        {"name": "Kousa", "uri": "https://reactjs.org/logo-og.png", "price": 30},
+        {"name": "Hot Dog", "uri": "https://reactjs.org/logo-og.png", "price": 100}
+    ]
+}

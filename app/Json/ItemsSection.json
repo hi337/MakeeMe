@@ -1,0 +1,11 @@
+{
+    "Items": [
+        {"uri": "https://reactjs.org/logo-og.png", "Name": "Beef", "Price": 100},
+        {"uri": "https://reactjs.org/logo-og.png", "Name": "Chicken", "Price": 100},
+        {"uri": "https://reactjs.org/logo-og.png", "Name": "Pork", "Price": 100},
+        {"uri": "https://reactjs.org/logo-og.png", "Name": "Lamb", "Price": 100},
+        {"uri": "https://reactjs.org/logo-og.png", "Name": "Turkey", "Price": 100},
+        {"uri": "https://reactjs.org/logo-og.png", "Name": "Duck", "Price": 100},
+        {"uri": "https://reactjs.org/logo-og.png", "Name": "Ribs", "Price": 100}
+    ]
+}
