@@ -26,7 +26,7 @@ export default function UserOrders({navigation, route}) {
     setRefreshing(true);
     async function fetchData() {
       // fetch orders
-      fetch('http://192.168.1.74:5000/orders/id/userId/', {
+      fetch('http://192.168.1.73:5000/orders/id/userId/', {
         method: 'GET',
         headers: {
           Authorization: 'bearer ' + (await AsyncStorage.getItem('userToken')),
@@ -53,7 +53,7 @@ export default function UserOrders({navigation, route}) {
   useEffect(() => {
     async function fetchData() {
       // fetch orders
-      fetch('http://192.168.1.74:5000/orders/id/userId/', {
+      fetch('http://192.168.1.73:5000/orders/id/userId/', {
         method: 'GET',
         headers: {
           Authorization: 'bearer ' + (await AsyncStorage.getItem('userToken')),
@@ -124,7 +124,7 @@ export default function UserOrders({navigation, route}) {
                   style={{width: 100, height: 100, borderRadius: 10}}
                   source={{
                     uri:
-                      'http://192.168.1.74:5000/' + item.product.productImage,
+                      'http://192.168.1.73:5000/' + item.product.productImage,
                   }}
                 />
                 <View style={{paddingLeft: 10}}>
