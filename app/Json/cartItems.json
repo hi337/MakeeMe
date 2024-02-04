@@ -1,0 +1,11 @@
+{
+    "cartItems" : [
+        {"name": "Chicken", "price": 100, "amount": 1},
+        {"name": "Pork", "price": 1, "amount": 2},
+        {"name": "Lamb", "price": 300, "amount": 5},
+        {"name": "Beef", "price": 200, "amount": 2},
+        {"name": "Beef", "price": 200, "amount": 2},
+        {"name": "Beef", "price": 200, "amount": 2},
+        {"name": "Beef", "price": 200, "amount": 2}
+    ]   
+}

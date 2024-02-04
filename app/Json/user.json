@@ -1,0 +1,22 @@
+{
+    "user": {
+        "paymentMethods": [
+            {"Name": "PayPal", "methodchosen": false, "methodConfigured": true, "creds": {
+                "username": "x",
+                "password": "x"
+            }}, 
+            {"Name": "Google Pay", "methodchosen": true, "methodConfigured": true, "creds": {
+                "username": "x",
+                "password": "x"
+            }},
+           {"Name": "Credit", "methodchosen": false, "methodConfigured": false, "creds": {
+                "username": "x",
+                "password": "x"
+            }} 
+        ],
+        "address": "112 Ball Cove SW",
+        "phoneNumber": "780-716-6290",
+        "accountType": "user"
+    }
+}
+

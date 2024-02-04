@@ -1,0 +1,11 @@
+{
+    "cardDataNumber1": [
+        {"uri":"https://reactjs.org/logo-og.png", "Chef's Name": "Jessie", "Time": "30 mins", "delivery fee": 10}
+    ],
+
+    "cardDataNumber2": [
+        {"uri":"https://reactjs.org/logo-og.png", "Chef's Name": "Jessie", "Time": "30 mins", "delivery fee": 100},
+        {"uri":"https://reactjs.org/logo-og.png", "Chef's Name": "Emma", "Time": "15 mins", "delivery fee": 0},
+        {"uri":"https://reactjs.org/logo-og.png", "Chef's Name": "Ravi", "Time": "32 mins", "delivery fee": 1}
+    ]
+}
